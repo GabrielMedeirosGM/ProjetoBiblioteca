@@ -70,7 +70,7 @@ Utilizei testes frequentes para:
 
 ## 📎 Acesso ao Código SQL
 
-Todo o código SQL utilizado no projeto está disponível na pasta `/sql`, contendo:
+Todo o código SQL utilizado no projeto está disponível na pasta `biblioteca/sql`, contendo:
 
 - Criação de tabelas
 - Inserts iniciais
