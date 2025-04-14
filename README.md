@@ -54,7 +54,8 @@ Utilizei testes frequentes para:
 ## 🖼️ Imagens do Projeto
 
 ### 📌 Modelo Lógico (BrModelo)
-![Modelo Lógico](C:\Users\Gabri\Downloads\ModeloLógico.brM3)
+![image](https://github.com/user-attachments/assets/3c30defe-c408-44ca-a1dd-32d2d71472df)
+
 
 ### 📌 Modelo Físico (Power Architect)
 ![Modelo Físico](caminho/para/imagem-fisico.png)
