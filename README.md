@@ -54,14 +54,15 @@ Utilizei testes frequentes para:
 ## 🖼️ Imagens do Projeto
 
 ### 📌 Modelo Lógico (BrModelo)
-![image](https://github.com/user-attachments/assets/3c30defe-c408-44ca-a1dd-32d2d71472df)
+![image](https://github.com/user-attachments/assets/973a98ac-07e0-4cb2-b29b-affe1aa49c89)
 
+### 📌 Modelo Relacional (BrModelo)
+![image](https://github.com/user-attachments/assets/a0757b7e-7c2a-46c9-b8f8-fa4f736fb2d9)
 
 ### 📌 Modelo Físico (Power Architect)
-![Modelo Físico](caminho/para/imagem-fisico.png)
+![image](https://github.com/user-attachments/assets/833e2dd5-63cb-4f70-ae56-714a201aa15c)
 
-### 📌 Execução dos Comandos SQL
-![SQL Workbench](caminho/para/imagem-sql.png)
+
 
 > 📂 *Substitua os caminhos acima pelos nomes corretos dos arquivos das imagens.*
 
@@ -88,8 +89,8 @@ Sugestões, melhorias ou correções são muito bem-vindas! Fique à vontade par
 
 Se quiser trocar uma ideia ou saber mais sobre o projeto:
 
-- [LinkedIn](https://www.linkedin.com/in/seu-perfil/)
-- [Email](mailto:seuemail@example.com)
+- [LinkedIn](www.linkedin.com/in/gabrielmedeiroslink)
+- [Email](Gabrielde.2000medeiros@outlook.com)
 
 ---
 
